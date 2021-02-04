@@ -2,241 +2,291 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Front End",
+      "titulo": "Romance",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Clássicos românticos",
+        "url": "http://www.adorocinema.com/filmes/melhores/genero-13024/"
       }
     },
     {
       "id": 2,
-      "titulo": "Back End",
+      "titulo": "Comédia",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Clássicos comédia",
+        "url": "http://www.adorocinema.com/filmes/melhores/genero-13005/"
       }
     },
     {
       "id": 3,
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Terror",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/cursos-online-mobile"
+        "text": "Clássicos terror",
+        "url": "http://www.adorocinema.com/filmes/melhores/genero-13009/"
       }
     },
     {
       "id": 4,
-      "titulo": "Filmes",
-      "cor": "orange"
+      "titulo": "Suspense",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Clássicos Suspense",
+        "url": "http://www.adorocinema.com/filmes/melhores/genero-13023/"
+      }
     },
     {
       "id": 5,
-      "titulo": "Games",
+      "titulo": "Animação",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Clássicos Animação",
+        "url": "http://www.adorocinema.com/filmes/melhores/genero-13026/"
       }
-    },
-    {
-      "id": 6,
-      "titulo": "Teste",
-      "cor": "pink",
-      "link_extra": {
-        "text": "Teste categoria",
-        "url": "https://www.teste.com"
-      }
-    },
-    {
-      "titulo": "alan",
-      "descricao": "efaaef",
-      "cor": "#915050",
-      "id": 7
     }
   ],
+
   "videos": [
     {
       "id": 1,
-      "categoriaId": 1,
-      "titulo": "SEO com React",
-      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+      "categoriaId": 3,
+      "titulo": "O Exorcista (1973)",
+      "url": "https://www.youtube.com/watch?v=xUntodg-vXY"
     },
     {
       "id": 2,
-      "categoriaId": 1,
-      "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+      "categoriaId": 3,
+      "titulo": "O sexto sentido (1999)",
+      "url": "https://www.youtube.com/watch?v=3-ZP95NF_Wk"
     },
     {
       "id": 3,
-      "categoriaId": 1,
-      "titulo": "Componentização com VanillaJS #AluraMais",
-      "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+      "categoriaId": 3,
+      "titulo": "Psicose (1960)",
+      "url": "https://www.youtube.com/watch?v=Oind-BVLNo4"
     },
     {
       "id": 4,
-      "categoriaId": 1,
-      "titulo": "Pare de chutar e aprenda a display: inline #01",
-      "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+      "categoriaId": 3,
+      "titulo": "Jogos Mortais (2004)",
+      "url": "https://www.youtube.com/watch?v=S-1QgOMQ-ls"
     },
     {
       "id": 5,
-      "categoriaId": 1,
-      "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-      "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+      "categoriaId": 3,
+      "titulo": "Carrie (1976)",
+      "url": "https://www.youtube.com/watch?v=YuO26oJQLVs"
     },
     {
       "id": 6,
-      "categoriaId": 1,
-      "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+      "categoriaId": 3,
+      "titulo": "O Iluminado (1980)",
+      "url": "https://www.youtube.com/watch?v=5Cb3ik6zP2I"
     },
     {
       "id": 7,
-      "categoriaId": 1,
-      "titulo": "Novidades do Angular v9",
-      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+      "categoriaId": 3,
+      "titulo": "SEXTA FEIRA 13 (1980)",
+      "url": "https://www.youtube.com/watch?v=dGT2-aWLHDw"
     },
     {
       "id": 8,
-      "categoriaId": 2,
-      "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-      "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+      "categoriaId": 3,
+      "titulo": " O BEBÊ DE ROSEMARY (1968)",
+      "url": "https://www.youtube.com/watch?v=BjpA6IH_Skc"
     },
     {
       "id": 9,
-      "categoriaId": 2,
-      "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-      "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+      "categoriaId": 3,
+      "titulo": "O Silêncio dos Inocentes (1991)",
+      "url": "https://www.youtube.com/watch?v=W6Mm8Sbe__o"
     },
     {
       "id": 10,
-      "categoriaId": 2,
-      "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-      "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+      "categoriaId": 3,
+      "titulo": "HORA DO PESADELO",
+      "url": "https://www.youtube.com/watch?v=dCVh4lBfW-c"
     },
     {
       "id": 11,
-      "categoriaId": 2,
-      "titulo": "API: Dicionário do Programador",
-      "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+      "categoriaId": 3,
+      "titulo": "HALLOWEEN (1982)",
+      "url": "https://www.youtube.com/watch?v=LY4L08gcKBQ"
     },
     {
       "id": 12,
-      "categoriaId": 2,
-      "titulo": "Usando Git Direito",
-      "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+      "categoriaId": 1,
+      "titulo": "Titanic (1997)",
+      "url": "https://www.youtube.com/watch?v=kVrqfYjkTdQ"
     },
     {
       "id": 13,
-      "categoriaId": 3,
-      "titulo": "Teste de Turing",
-      "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+      "categoriaId": 1,
+      "titulo": "Ghost – Do Outro Lado da Vida (1990)",
+      "url": "https://www.youtube.com/watch?v=8uubih798tg"
     },
     {
       "id": 14,
-      "categoriaId": 3,
-      "titulo": "O que é Data Science?",
-      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+      "categoriaId": 1,
+      "titulo": "Brilho Eterno de Uma Mente sem Lembranças (2004)",
+      "url": "https://www.youtube.com/watch?v=cYEuKFbSsuE"
     },
     {
       "id": 15,
-      "categoriaId": 3,
-      "titulo": "Melhor forma de aprender Python",
-      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+      "categoriaId": 1,
+      "titulo": "P.S. Eu te Amo (2007)",
+      "url": "https://www.youtube.com/watch?v=iR-Z5VekHTQ"
     },
     {
       "id": 16,
-      "categoriaId": 3,
-      "titulo": "Como ingressar no mercado de Data Science?",
-      "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+      "categoriaId": 1,
+      "titulo": "A Última Música (2010)",
+      "url": "https://www.youtube.com/watch?v=tlQpJAcNzJg"
     },
     {
       "id": 17,
-      "categoriaId": 4,
-      "titulo": "Interestellar",
-      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+      "categoriaId": 1,
+      "titulo": "Cartas para Julieta (2010)",
+      "url": "https://www.youtube.com/watch?v=ve5aUbb7gA8"
     },
     {
       "id": 18,
-      "categoriaId": 4,
-      "titulo": "Gattaca",
-      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+      "categoriaId": 1,
+      "titulo": "A Culpa é das Estrelas (2014)",
+      "url": "https://www.youtube.com/watch?v=lFOOZJ1UChg"
     },
     {
       "id": 19,
-      "categoriaId": 4,
-      "titulo": "A Chegada",
-      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+      "categoriaId": 1,
+      "titulo": "A Incrível História de Adaline (2015)",
+      "url": "https://www.youtube.com/watch?v=ZzirthtD7kM"
     },
     {
       "id": 20,
-      "categoriaId": 4,
-      "titulo": "Feitiço do Tempo",
-      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+      "categoriaId": 1,
+      "titulo": "Meu primeiro Amor (1991)",
+      "url": "https://www.youtube.com/watch?v=GreDP22A-0k"
     },
     {
       "id": 21,
-      "categoriaId": 5,
-      "titulo": "Final Fantasy 7",
-      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+      "categoriaId": 2,
+      "titulo": "O Todo Poderoso (2003)",
+      "url": "https://www.youtube.com/watch?v=w8gZKzfWrMU"
     },
     {
       "id": 22,
-      "categoriaId": 5,
-      "titulo": "Assassins Creed Valhalla",
-      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+      "categoriaId": 2,
+      "titulo": "O Virgem de 40 Anos (2005)",
+      "url": "https://www.youtube.com/watch?v=YnDeJn-BX5Q"
     },
     {
       "id": 23,
-      "categoriaId": 5,
-      "titulo": "God of War 4",
-      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+      "categoriaId": 2,
+      "titulo": "As Branquelas (2004)",
+      "url": "https://www.youtube.com/watch?v=aeVkbNka9HM"
     },
     {
       "id": 24,
-      "categoriaId": 5,
-      "titulo": "Resident Evil 8",
-      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+      "categoriaId": 2,
+      "titulo": "Entrando Numa Fria (200)",
+      "url": "https://www.youtube.com/watch?v=HeoB6QSoz54"
     },
     {
-      "titulo": "Video padrão",
-      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
-      "categoriaId": 1,
+      "titulo": "Rua Cloverfield, 10 (2016)",
+      "url": "https://www.youtube.com/watch?v=M5-feV2zeIE&feature=emb_logo",
+      "categoriaId": 4,
       "id": 25
     },
     {
-      "titulo": "testeeee",
-      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
-      "categoriaId": 1,
+      "titulo": "Janela Indiscreta (1954)",
+      "url": "https://www.youtube.com/watch?v=fOVcjz-1aJM&feature=emb_logo",
+      "categoriaId": 4,
       "id": 26
     },
     {
-      "titulo": "testeeee",
-      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
-      "categoriaId": 6,
+      "titulo": "A Chave Mestra (2005)",
+      "url": "https://www.youtube.com/watch?v=MM9PJ5DvKys&feature=emb_logo",
+      "categoriaId": 4,
       "id": 26
     },
     {
-      "titulo": "teste",
-      "url": "https://www.youtube.com/watch?v=WFDl7qNRebs",
-      "categoriaId": 6,
+      "titulo": "Amnésia (2000)",
+      "url": "https://www.youtube.com/watch?v=sHRiMXd5fos&feature=emb_logo",
+      "categoriaId": 4,
       "id": 27
     },
     {
-      "titulo": "Video padrão",
-      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
-      "categoriaId": 6,
+      "titulo": "Corra! (2017)",
+      "url": "https://www.youtube.com/watch?time_continue=6&v=mDGV5UucTu8&feature=emb_logo",
+      "categoriaId": 4,
       "id": 28
     },
     {
-      "titulo": "Video padrão",
-      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
-      "categoriaId": 6,
+      "titulo": " Fragmentado (2016)",
+      "url": "https://www.youtube.com/watch?v=vslbpge5r7M&feature=emb_logo",
+      "categoriaId": 4,
       "id": 29
+    },
+    {
+      "titulo": "Parasita (2019)",
+      "url": "https://www.youtube.com/watch?time_continue=1&v=xWEf44OcU1w&feature=emb_logo",
+      "categoriaId": 4,
+      "id": 29
+    },
+    {
+      "titulo": "Ilha do Medo (2010)",
+      "url": "https://www.youtube.com/watch?v=gL4rP2prdfg&feature=emb_logo",
+      "categoriaId": 4,
+      "id": 30
+    },
+    {
+      "titulo": "Os Outros (2001)",
+      "url": "https://www.youtube.com/watch?v=iZmV5gOwHRI&feature=emb_logo",
+      "categoriaId": 4,
+      "id": 31
+    },
+    {
+      "titulo": "Os Incríveis (2004)",
+      "url": "https://www.youtube.com/watch?v=p5T1KLmclyk",
+      "categoriaId": 5,
+      "id": 32
+    },
+    {
+      "titulo": "Up: Altas Aventuras (2009)",
+      "url": "https://www.youtube.com/watch?v=HWEW_qTLSEE",
+      "categoriaId": 5,
+      "id": 33
+    },
+    {
+      "titulo": "Procurando Nemo (2003)",
+      "url": "https://www.youtube.com/watch?v=lJhvtAt_1Nk",
+      "categoriaId": 5,
+      "id": 34
+    },
+    {
+      "titulo": "Ratatouille (2007)",
+      "url": "https://www.youtube.com/watch?v=NgsQ8mVkN8w",
+      "categoriaId": 5,
+      "id": 35
+    },
+    {
+      "titulo": "Divertida Mente (2015)",
+      "url": "https://www.youtube.com/watch?v=LSpeM7G4zfY",
+      "categoriaId": 5,
+      "id": 36
+    },
+    {
+      "titulo": "Toy Story 3 (2010)",
+      "url": "https://www.youtube.com/watch?v=JcpWXaA2qeg",
+      "categoriaId": 5,
+      "id": 37
+    },
+    {
+      "titulo": "Wall·E (2008)",
+      "url": "https://www.youtube.com/watch?v=alIq_wG9FNk",
+      "categoriaId": 5,
+      "id": 38
     }
   ]
-}
+  }

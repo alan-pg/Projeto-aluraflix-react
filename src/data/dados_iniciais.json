@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Front Enddd",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -100,20 +100,20 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Terror",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "O Exorcista (1973)",
+          "url": "https://www.youtube.com/watch?v=xUntodg-vXY"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "O sexto sentido (1999)",
+          "url": "https://www.youtube.com/watch?v=3-ZP95NF_Wk"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Psicose (1960)",
+          "url": "https://www.youtube.com/watch?v=Oind-BVLNo4"
         },
         {
           "titulo": "Feitiço do Tempo",

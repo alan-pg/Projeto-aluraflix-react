@@ -1,14 +1,14 @@
 # Aluraflix
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/alan-pg/teste-react/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/alan-pg/Projeto-aluraflix-react/blob/master/LICENSE) 
 
 # Sobre o projeto
 
-Covid19 Dashboard é uma aplicação construida durante curso na Digital Innovation One e reconstruida por mim após o curso, essa aplicação consome uma API de dados do COVID19 em todo o mundo e disponibiliza um dashboard com os dados de infectados e óbitos de cada país.
+Projeto desenvolvido durante imersão React Alura, objetivo do projeto é um sistema para adicionar vídeos favoritos do Youtube e classificar por categorias.
 
-https://covid19-dashboard-react.herokuapp.com/
+https://projeto-aluraflix-react.vercel.app/
 
-## Layout original construido durante aula.
+## Tela principal
 ![Web 1](https://github.com/alan-pg/CoronaVirus-Dashboard-React/blob/main/src/assets/images/tela-original.png)
 
 ## Layout reconstruido por mim após o curso.

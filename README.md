@@ -9,21 +9,28 @@ Projeto desenvolvido durante imersão React Alura, objetivo do projeto é um sis
 https://projeto-aluraflix-react.vercel.app/
 
 ## Tela principal
-![Web 1](https://github.com/alan-pg/CoronaVirus-Dashboard-React/blob/main/src/assets/images/tela-original.png)
+![Web 1](https://github.com/alan-pg/Projeto-aluraflix-react/blob/master/src/assets/home.png)
+![Web 1](https://github.com/alan-pg/Projeto-aluraflix-react/blob/master/src/assets/home2.png)
 
-## Layout reconstruido por mim após o curso.
-![Web 1](https://github.com/alan-pg/teste-react/blob/main/src/assets/images/tela.png)
+## Cadastro de vídeos.
+![Web 1](https://github.com/alan-pg/Projeto-aluraflix-react/blob/master/src/assets/tela%20de%20cadastro.png)
 
 
 # Tecnologias utilizadas
 ## Back end
-- API https://coronavirus-19-api.herokuapp.com/countries
+- Nodejs
+- Express
+- Json-server
+- Concurrently
+
 ## Front end
 - HTML / CSS / JavaScript
 - ReactJS
-- Material UI
+- Styled-components
+
 ## Implantação em produção
-- Heroku
+- Back end - Heroku
+- Front end - Vercel
 
 
 # Como executar o projeto
@@ -32,13 +39,13 @@ Pré-requisitos: Nodejs
 
 ```bash
 # clonar repositório
-git clone https://github.com/alan-pg/CoronaVirus-Dashboard-React
+git clone https://github.com/alan-pg/Projeto-aluraflix-react
 
 # entrar na pasta do projeto
-cd CoronaVirus-Dashboard-React
+cd Projeto-aluraflix-react
 
 # executar o projeto
-npm start
+npm run dev
 ```
 
 # Autor
